@@ -1,0 +1,1 @@
+src\config\settings.py  -> SECRET_KEY: str = "your-secret-key-here-change-in-production" : note this in production  BJQFHSYLBFS5HMXEYC8R7KCT
