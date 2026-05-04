@@ -1,1 +1,9 @@
+DAY 1 
+
 src\config\settings.py  -> SECRET_KEY: str = "your-secret-key-here-change-in-production" : note this in production  BJQFHSYLBFS5HMXEYC8R7KCT
+
+also created key of SENTRY_DSN, PROXY_API_KEY, SECRET_KEY
+
+and docker from postgrase and redis downloded , all push till now in github
+
+
