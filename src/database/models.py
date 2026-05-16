@@ -1,5 +1,5 @@
 from sqlalchemy import Column, Integer, String, Float, Boolean, DateTime, Text, ForeignKey, Index, JSON
-from sqlalchemy.ext.declarative import declarative_base
+from sqlalchemy.orm import declarative_base #if any error use this -> old version code (from sqlalchemy.ext.declarative import declarative_base)
 from sqlalchemy.sql import func
 from datetime import datetime
  

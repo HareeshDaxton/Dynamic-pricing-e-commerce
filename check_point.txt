@@ -4,6 +4,13 @@ src\config\settings.py  -> SECRET_KEY: str = "your-secret-key-here-change-in-pro
 
 also created key of SENTRY_DSN, PROXY_API_KEY, SECRET_KEY
 
-and docker from postgrase and redis downloded , all push till now in github
+and docker from postgrase and redis downloded , all pushed till now in github
+
+
+DAY 2
+
+alembic full setup
+
+updates of env virabels
 
 

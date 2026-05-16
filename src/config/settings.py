@@ -40,7 +40,7 @@ class Settings(BaseSettings):
     MODEL_VERSION: str = "production"
     
     # Security
-    SECRET_KEY: str = "your-secret-key-here-change-in-production"
+    SECRET_KEY: str = "8bd35a9aa839ddcb4a8b6e3f880a4f3f2336df877a6ad937e9ebf0c3afd8d30a"  # "your-secret-key-here-change-in-production"
     ALGORITHM: str = "HS256"
     ACCESS_TOKEN_EXPIRE_MINUTES: int = 30
     
