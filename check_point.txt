@@ -1,4 +1,4 @@
-DAY 1 
+DAY 1
 
 src\config\settings.py  -> SECRET_KEY: str = "your-secret-key-here-change-in-production" : note this in production  BJQFHSYLBFS5HMXEYC8R7KCT
 
@@ -14,3 +14,6 @@ alembic full setup
 updates of env virabels
 
 
+done .pre-commit-config.yaml (project rules for formatting and checks)
+
+Github.
